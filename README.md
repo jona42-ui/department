@@ -1,4 +1,4 @@
-${department}
+department
 ==========================
 
 Description
