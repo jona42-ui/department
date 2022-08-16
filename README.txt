@@ -1,0 +1,1 @@
+This is an exmaple of a customised module based on the Amani Clinic Case Study to allow the practitioners can have depaertments to manage the hospital.
