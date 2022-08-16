@@ -1,4 +1,4 @@
-${moduleName}
+${department}
 ==========================
 
 Description
