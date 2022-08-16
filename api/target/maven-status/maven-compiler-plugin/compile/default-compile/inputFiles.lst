@@ -1,0 +1,6 @@
+/root/department/api/src/main/java/org/openmrs/module/department/DepartmentConfig.java
+/root/department/api/src/main/java/org/openmrs/module/department/api/DepartmentService.java
+/root/department/api/src/main/java/org/openmrs/module/department/Item.java
+/root/department/api/src/main/java/org/openmrs/module/department/DepartmentActivator.java
+/root/department/api/src/main/java/org/openmrs/module/department/api/dao/DepartmentDao.java
+/root/department/api/src/main/java/org/openmrs/module/department/api/impl/DepartmentServiceImpl.java
